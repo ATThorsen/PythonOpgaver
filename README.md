@@ -1,6 +1,5 @@
 # PythonOpgaver
 # Week 1 Execise 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ATThorsen/PythonOpgaver/master?urlpath=Week1)
-
-https://hub.gke.mybinder.org/user/atthorsen-pythonopgaver-uow522fg/notebooks/Week1/Week1Execises.ipynb
+Jeg havde problemer med at få myBinder til at virke, jeg er bange for at du bliver nød til at at læse koden igennem, via filerne.
+Jeg håber ikke dette er et problem næste uge.
 # Jeg havde lidt problemer med at få myBinder til at virke, men Opgaven ligger under Week 1 
