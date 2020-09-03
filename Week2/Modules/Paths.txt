@@ -1,6 +1,10 @@
-.git
-.ipynb_checkpoints
-01 class execise .ipynb
-Loops.ipynb
-Week1
-Week2
+aNewFile.txt
+argpass.py
+Execise2.py
+hello.txt
+Modules
+mycsv.csv
+text.txt
+utils.py
+WritingTest.txt
+__pycache__
