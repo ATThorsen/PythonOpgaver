@@ -1,0 +1,6 @@
+.git
+.ipynb_checkpoints
+01 class execise .ipynb
+Loops.ipynb
+Week1
+Week2
