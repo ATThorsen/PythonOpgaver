@@ -10,9 +10,13 @@ def readingFromFile(file):
             myFile += line.strip()
 
         print(myFile) 
+
     elif file.endswith(".csv"):
         with open(file,'r') as file_object:
             reader = csv.reader(file_object)
             csvList = list(reader)
         
         print(csvList)
+
+if __name__ == "__main__":
+    readingFromFile("TestFile.txt")
