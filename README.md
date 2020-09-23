@@ -8,3 +8,5 @@ https://github.com/ATThorsen/PythonOpgaver/blob/master/Week2/Modules/utils.py
 
 # Opgave 3 - 
 https://github.com/ATThorsen/PythonOpgaver/blob/master/Week3/StudentOpg.py
+
+# Opgave 5 - 
