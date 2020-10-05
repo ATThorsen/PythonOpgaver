@@ -11,3 +11,6 @@ https://github.com/ATThorsen/PythonOpgaver/blob/master/Week3/StudentOpg.py
 
 # Opgave 5 - 
 https://github.com/ATThorsen/PythonOpgaver/blob/master/week5/Week5.ipynb
+
+# Opgave 6- 
+https://github.com/ATThorsen/PythonOpgaver/tree/master/week6
